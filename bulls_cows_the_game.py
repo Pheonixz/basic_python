@@ -1,4 +1,5 @@
-# A game named "Bulls & Cows". https://en.wikipedia.org/wiki/Bulls_and_Cows
+# A game named "Bulls & Cows".
+# https://en.wikipedia.org/wiki/Bulls_and_Cows
 
 
 import bulls_cows_engine

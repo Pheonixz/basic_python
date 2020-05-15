@@ -1,4 +1,4 @@
-# A tree drawn using SimpleDraw module using a recursion function
+# A tree drawn using SimpleDraw module using a recursion function.
 
 import simple_draw as sd
 

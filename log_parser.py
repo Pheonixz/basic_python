@@ -1,6 +1,6 @@
 # Two variants of a simple log parser, which parses a file of log lines
 # and then writes out to console how many events with "NOK" marker occurred
-# in each of logged minute
+# in each of logged minute.
 
 
 def generator(file):

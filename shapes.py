@@ -1,5 +1,5 @@
 # A simple factory function which draws different geometric shapes
-# depending on the given angle value
+# depending on the given angle value.
 
 import simple_draw as sd
 
