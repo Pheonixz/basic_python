@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # A game named "Bulls & Cows". https://en.wikipedia.org/wiki/Bulls_and_Cows
 
 
